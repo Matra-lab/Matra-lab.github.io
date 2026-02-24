@@ -1,8 +1,8 @@
 ---
 title: "Packet Tracer WLAN Configuration"
 date: 2026-02-24 7:00:00 +0300
-categories: [Network Security, Labs]
-tags: [Cisco, WPA2, WLC, Packet-Tracer, Cybersecurity]
+categories: [Network Security, Labs, Cybersecurity]
+tags: [Cisco, WPA2, WLC, Packet-Tracer]
 ---
 
 In this lab, I simulated the deployment of a secure **Wireless Local Area Network (WLAN)** for a **SOHO** (Small Office/Home Office) environment. The goal was to ensure internal hosts could securely access a web server on the WAN while maintaining data integrity.  
