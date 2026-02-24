@@ -2,12 +2,15 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://matra-lab.github.io"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: "fab fa-linkedin-in"
+  url: "https://www.linkedin.com/in/jack-matra-89a097358"
 
 - type: email
   icon: "fas fa-envelope"
+  url: "mailto:jackmatra02@gmail.com"
   noblank: true # open link in current tab
 
 - type: rss
