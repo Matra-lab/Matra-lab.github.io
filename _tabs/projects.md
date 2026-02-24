@@ -23,7 +23,7 @@ order: 3
 - Driver & cargo management  
 - Reporting dashboard  
 
-
+**Document:** [Full Assignment Report (PDF)](/assets/files/TRANSTRUCK TRANSPORT SYSTEM.pdf)
 
 
 ## VLANs and Secure Switch Configuration
@@ -56,3 +56,4 @@ order: 3
 - Ping local/remote devices
 - Examine ICMP echo requests/replies in detail
 
+**Document:** [Full Assignment Report (PDF)](/assets/files/Use Wireshark to Examine Network Traffic.pdf)
