@@ -25,6 +25,7 @@ order: 3
 
 
 
+
 ## VLANs and Secure Switch Configuration
 **_Cloud and Network Security - CyberShujaa CNS-2026_**  
 **Technologies:** (Cisco Packet Tracer)  
@@ -40,6 +41,7 @@ order: 3
 - STP enhancements (PortFast + BPDU Guard)
 - Final validation
 
+**Document:** [Full Assignment Report (PDF)](/assets/files/VLANS & Secure Switch Config.pdf)
 
 
 ## Use Wireshark to Examine Network Traffic
