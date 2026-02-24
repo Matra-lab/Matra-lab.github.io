@@ -23,7 +23,7 @@ order: 3
 - Driver & cargo management  
 - Reporting dashboard  
 
-**Document:** [Full Assignment Report (PDF)](/assets/files/TRANSTRUCK TRANSPORT SYSTEM.pdf)
+**Document:** [Full Report (PDF)](/assets/files/TRANSTRUCK TRANSPORT SYSTEM.pdf)
 
 
 ## VLANs and Secure Switch Configuration
@@ -41,7 +41,7 @@ order: 3
 - STP enhancements (PortFast + BPDU Guard)
 - Final validation
 
-**Document:** [Full Assignment Report (PDF)](/assets/files/VLANS & Secure Switch Config.pdf)
+**Document:** [Full Report (PDF)](/assets/files/VLANS & Secure Switch Config.pdf)
 
 
 ## Use Wireshark to Examine Network Traffic
@@ -56,4 +56,4 @@ order: 3
 - Ping local/remote devices
 - Examine ICMP echo requests/replies in detail
 
-**Document:** [Full Assignment Report (PDF)](/assets/files/Use Wireshark to Examine Network Traffic.pdf)
+**Document:** [Full Report (PDF)](/assets/files/Use Wireshark to Examine Network Traffic.pdf)
